@@ -1,13 +1,10 @@
 ### Hi there ! I'm Gowthamkrishnan S 
 
-I'm Developer , Student
+## I'm Developer , Student
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Web Developement and Machine Learning
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love Cooking👨‍🍳
 
