@@ -1,6 +1,6 @@
-### Hi there ! I'm Gowthamkrishnan S 
+## Hi there ! I'm Gowthamkrishnan S 
 
-## I'm Developer , Student
+### I'm Developer , Student
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything 😂
