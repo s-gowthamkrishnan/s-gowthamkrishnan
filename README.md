@@ -27,8 +27,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="PHP" src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
-<img align="left" alt="Vue" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -36,9 +34,3 @@
 <img align="left" alt="MongoDB" width="30px"  src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
-<br />
-<br />
-<div>
-<img align="left" width="50%" alt="Gowthamkrishnan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s-gowthamkrishnan&show_icons=true&hide_border=true" />
-<img align="right" alt="Gowthamkrishnan's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-gowthamkrishnan&layout=compact&hide=TSQL"/>
-</div>
